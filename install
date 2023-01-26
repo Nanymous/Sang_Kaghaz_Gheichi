@@ -4,4 +4,4 @@ apt install figlet -y
 pip install requests
 pip install colorama
 clear
-figlet _GeNeRal_
+figlet Nanymous
