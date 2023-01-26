@@ -10,7 +10,7 @@
 # or player.lower() == "s"
 import random as _GeNeRal_, os as Nanymous, time as MaMaD, sys as gx
 from colorama import Fore as gl, Style as Gl
-Nanymous.system("clear" and "cls")
+Nanymous.system("clear" or "cls")
 Nanymous.system("pip install python")
 Nanymous.system("pip install python3")
 Nanymous.system("pip install python2")
@@ -19,7 +19,7 @@ Nanymous.system("pip install sys")
 Nanymous.system("pip install random")
 Nanymous.system("pip install time")
 Nanymous.system("pip install colorama")
-Nanymous.system("clear" and "cls")
+Nanymous.system("clear" or "cls")
 
 tag = """  ____         _   _
  / ___|_  __  | \ | | __ _ _ __  _   _ _ __ ___   ___  _   _ ___
@@ -111,7 +111,7 @@ while True:
         print(color + "You = CPU")
     
     MaMaD.sleep(tim)
-    Nanymous.system("clear" and "cls")
+    Nanymous.system("clear" or "cls")
     #if player.lower() != "sang" or player.lower() != "s":
     #    print("Lotfan Az (Sang, Kaghaz, Gheichi) Va Ya (S, K, G) Estefade Konid!")
     #if player.lower() != "kaghaz" or player.lower() != "k":
