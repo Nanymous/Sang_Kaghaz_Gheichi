@@ -1,4 +1,4 @@
-# _GeNeRal_
+# Nanymous
 
 >> apt update && apt upgrade 
 
