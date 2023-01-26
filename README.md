@@ -4,7 +4,7 @@
 
 >> git clone < link > 
 
->> cd Gx_Game
+>> cd Sang_Kaghaz_Gheichi
 
 >> chmod 777 *
 
